@@ -39,3 +39,17 @@ def shell_sort(array):
 					break
 		gap //=2
 	return array
+
+# 冒泡排序
+'''稳定排序'''
+
+def bubble_sort(array):
+	count = len(array)
+	for i in range(count):
+		for j in range(i+1,count):
+			if array[i] > array[j]:
+				array[i],array[j] = array[j], array[i]
+	return array
+
+
+
