@@ -1,0 +1,9 @@
+记录各种Python的api和骚操作
+
+string.zfill()  返回指定长度的字符串，原字符串右对齐，前面填充0
+
+例如：string='1001'
+string = string.zfill(10)
+string=='0000001001'
+
+
