@@ -19,4 +19,33 @@ zip([iterable, ...])
 >>> zip(*zipped)          # 与 zip 相反，可理解为解压，返回二维矩阵式
 [(1, 2, 3), (4, 5, 6)]
 
+为dict提供默认值
+collections.defaultdict(类型（比如int，list等，也可以接受不带参数的可调用函数）)
+
+all()
+all() 函数用于判断给定的可迭代参数 iterable 中的所有元素是否不为 0、''、False 或者 iterable 为空，
+如果是返回 True，否则返回 False。
+
+yield关键字
+
+
+
+
+二维list转一维list的几种方法
+方法一：适用于二维list
+a=[[1,2,3],[4,5,6]]
+sum(a,[])
+
+方法二
+import itertools
+a = [[1,2,3],[4,5,6], [7], [8,9]]
+out = list(itertools.chain.from_iterable(a))
+
+方法三：适用于任意深度的嵌套（递归）
+def flat(l):
+    for k in l:
+        if not isinstance(k, (list, tuple)):
+            yield k
+        else:
+            yield from flat(k)
 
