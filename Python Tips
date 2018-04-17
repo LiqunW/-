@@ -22,6 +22,9 @@ zip([iterable, ...])
 为dict提供默认值
 collections.defaultdict(类型（比如int，list等，也可以接受不带参数的可调用函数）)
 
+collections.deque()
+双向队列，有popleft()出队方法和append()入队方法
+
 all()
 all() 函数用于判断给定的可迭代参数 iterable 中的所有元素是否不为 0、''、False 或者 iterable 为空，
 如果是返回 True，否则返回 False。
@@ -49,3 +52,77 @@ def flat(l):
         else:
             yield from flat(k)
 
+
+strings.count('string')
+对strings中的某个string进行计数
+
+math.sqrt
+开根号计算
+
+python中变量仅仅是对象的标签
+例如：
+>>> import copy
+>>> a = [1, 2, 3]
+>>> b = a
+>>> c = copy.deepcopy(a)
+>>> a.append(4)
+>>> print a
+[1, 2, 3, 4]
+>>> print b
+[1, 2, 3, 4]
+>>> print c
+[1, 2, 3]
+
+>>> import copy
+>>> a = [[10], 20]
+>>> b = a[:]
+>>> c = list(a)
+>>> d = a * 1
+>>> e = copy.copy(a)
+>>> f = copy.deepcopy(a)
+>>> a.append(21)
+>>> a[0].append(11)
+>>> print id(a), a
+30553152 [[10, 11], 20, 21]
+>>> print id(b), b
+44969816 [[10, 11], 20]
+>>> print id(c), c
+44855664 [[10, 11], 20]
+>>> print id(d), d
+44971832 [[10, 11], 20]
+>>> print id(e), e
+44833088 [[10, 11], 20]
+>>> print id(f), f
+44834648 [[10], 20]
+
+
+set() 无序不重复元素集，可以用于去除重复元素和关系测试
+
+>>> x = set('spam')
+>>> y = set(['h','a','m'])
+>>> x, y
+(set(['a', 'p', 's', 'm']), set(['a', 'h', 'm']))
+
+>>> x & y # 交集
+set(['a', 'm'])
+
+>>> x | y # 并集
+set(['a', 'p', 's', 'h', 'm'])
+
+>>> x - y # 差集
+set(['p', 's'])
+
+>>> x ^ y # 对称差集
+set(['p', 's', 'h'])
+
+A和B是list
+#求交集的两种方式
+retA = [i for i in listA if i in listB]
+retB = list(set(listA).intersection(set(listB)))
+
+#求并集
+retC = list(set(listA).union(set(listB)))
+
+#求差集，在B中但不在A中
+retD = list(set(listB).difference(set(listA)))
+retE = [i for i in listB if i not in listA]
