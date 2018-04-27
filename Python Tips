@@ -153,3 +153,23 @@ python全局变量、局部变量
 即只要是*使用*变量，而该变量在全局域中有定义，而在局部没有定义，则会使用全局变量。
 3.如果使用的变量在全局域中有定义，在局部域中也有定义，则默认会使用局部变量。
 4.如果要在函数中给全局变量赋值，需要用global关键字声明。
+
+
+计数器
+count = collections.Counter()
+
+计数值访问
+count['key']  不存在的话返回0
+
+计数器更新
+count.update('key')  key值对应的value+1
+count.subtract('key') key值对应的value-1
+
+key的删除
+用del count('key')
+
+count.elements()
+一个生成器，返回的是无序key
+
+count.most_common(N)
+返回一个TopN列表，如果不指定N，就返回所有元素
