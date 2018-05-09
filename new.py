@@ -1,18 +1,17 @@
-def longestPalindromeSubseq(s):
-    """
-    :type s: str
-    :rtype: int
-    """
-    dp = []
-    for i in range(len(s)):
-        dp.append([0]*len(s))
-    for i in range(len(s) - 1, -1,-1):
-        dp[i][i] = 1
-        for j in range((i + 1), len(s)):
-            if s[i] == s[j]:
-                dp[i][j] = dp[i + 1][j - 1] + 2
-            else:
-                dp[i][j] = max(dp[i + 1][j], dp[i][j - 1])
-    return dp[0][-1]
+class Solution:
+    def permute(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+        if len(nums)<=1:
+            return [nums]
+        res = []
+        for i in range(len(nums)):
+            n = nums[:i]+nums[i+1:]
+            for j in self.permute(n):
+                res.append([nums[i]]+j)
+        return res
 
-print(longestPalindromeSubseq('bbbab'))
+a=Solution()
+print(a.permute([1,2,3]))
