@@ -173,3 +173,11 @@ count.elements()
 
 count.most_common(N)
 返回一个TopN列表，如果不指定N，就返回所有元素
+
+operator 包
+operator模块是python中内置的操作符函数接口，
+它定义了一些算术和比较内置操作的函数。operator模块是用c实现的，所以执行速度比python代码快。
+
+import operator
+a = operator.add
+res = a(1,2)  #res的操作就是1+2
