@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d781190d-f22e-475f-ad92-b69d7bbb4b2d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/104. Maximum Depth of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/206. Reverse Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/217. Contains Duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/237. Delete Node in a Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/242. Valid Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/384. Shuffle an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/387. First Unique Character in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/454. 4Sum II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/108. Convert Sorted Array to Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/230. Kth Smallest Element in a BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/268. Missing Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/287. Find the Duplicate Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/328. Odd Even Linked List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13. Roman to Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_python_solution/13. Roman to Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode_python_solution/104. Maximum Depth of Binary Tree" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,12 +28,30 @@
     <SUITE FILE_PATH="coverage/LeetCode$exam.coverage" NAME="exam Coverage Results" MODIFIED="1528809884924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="387. First Unique Character in a String.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/387. First Unique Character in a String.py">
+    <leaf>
+      <file leaf-file-name="328. Odd Even Linked List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/328. Odd Even Linked List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            <state relative-caret-position="374">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="108. Convert Sorted Array to Binary Search Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/108. Convert Sorted Array to Binary Search Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="287. Find the Duplicate Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/287. Find the Duplicate Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -94,6 +107,11 @@
         <option value="$PROJECT_DIR$/LeetCode_python_solution/206. Reverse Linked List.py" />
         <option value="$PROJECT_DIR$/LeetCode_python_solution/384. Shuffle an Array.py" />
         <option value="$PROJECT_DIR$/LeetCode_python_solution/387. First Unique Character in a String.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/230. Kth Smallest Element in a BST.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/268. Missing Number.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/108. Convert Sorted Array to Binary Search Tree.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/328. Odd Even Linked List.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/287. Find the Duplicate Number.py" />
       </list>
     </option>
   </component>
@@ -106,9 +124,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="374" />
-    <option name="y" value="-27" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="44" />
+    <option name="y" value="41" />
     <option name="width" value="1670" />
     <option name="height" value="976" />
   </component>
@@ -392,11 +410,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528968381924</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="6.15">
+      <created>1529033135034</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1529033135034</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="669" y="81" width="1670" height="976" extended-state="0" />
+    <frame x="428" y="181" width="1670" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -406,13 +431,13 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.19847329" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.3653217" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18012422" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18385093" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32497013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29661942" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -435,7 +460,8 @@
     <MESSAGE value="leetcode刷题" />
     <MESSAGE value="6.13" />
     <MESSAGE value="6.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.14" />
+    <MESSAGE value="6.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -459,35 +485,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="43" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/API_requests.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LinkedNode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="946">
@@ -734,9 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/104. Maximum Depth of Binary Tree">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/104. Maximum Depth of Binary Tree" />
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/104. Maximum Depth of Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -790,9 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="968">
           <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="e#466#477#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,6 +792,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/230. Kth Smallest Element in a BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/268. Missing Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/328. Odd Even Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/108. Convert Sorted Array to Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/287. Find the Duplicate Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
