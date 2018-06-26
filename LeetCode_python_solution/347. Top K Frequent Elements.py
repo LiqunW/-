@@ -36,4 +36,4 @@ class Solution:
 
 if __name__ == '__main__':
     a=Solution()
-    a.topKFrequent(nums=[1,1,1,1,2,2,5,3],k=2)
+    print(a.topKFrequent(nums=[1,1,1,1,2,2,5,3],k=2))
