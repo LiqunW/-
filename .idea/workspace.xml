@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d781190d-f22e-475f-ad92-b69d7bbb4b2d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/103. Binary Tree Zigzag Level Order Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/11. Container With Most Water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/116. Populating Next Right Pointers in Each Node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/117. Populating Next Right Pointers in Each Node II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/17. Letter Combinations of a Phone Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/172. Factorial Trailing Zeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/200. Number of Islands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/289. Game of Life.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/38. Count and Say.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/73. Set Matrix Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/105. Construct Binary Tree from Preorder and Inorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/106. Construct Binary Tree from Inorder and Postorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/131. Palindrome Partitioning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/141. Linked List Cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/395. Longest Substring with At Least K Repeating Characters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,49 +45,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="172. Factorial Trailing Zeroes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/172. Factorial Trailing Zeroes.py">
+      <file leaf-file-name="131. Palindrome Partitioning.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/131. Palindrome Partitioning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="592">
+              <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="26. Remove Duplicates from Sorted Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/26. Remove Duplicates from Sorted Array.py">
+      <file leaf-file-name="395. Longest Substring with At Least K Repeating Characters.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/395. Longest Substring with At Least K Repeating Characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="53" column="66" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="66" />
+            <state relative-caret-position="152">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="116. Populating Next Right Pointers in Each Node.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/116. Populating Next Right Pointers in Each Node.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="72" column="43" lean-forward="true" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="117. Populating Next Right Pointers in Each Node II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/117. Populating Next Right Pointers in Each Node II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="73. Set Matrix Zeroes.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/73. Set Matrix Zeroes.py">
+      <file leaf-file-name="105. Construct Binary Tree from Preorder and Inorder Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/105. Construct Binary Tree from Preorder and Inorder Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="394">
-              <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="106. Construct Binary Tree from Inorder and Postorder Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/106. Construct Binary Tree from Inorder and Postorder Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="141. Linked List Cycle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/141. Linked List Cycle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="77" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20. Valid Parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/20. Valid Parentheses.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -112,12 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_python_solution/350. Intersection of Two Arrays II.py" />
-        <option value="$PROJECT_DIR$/LeetCode_python_solution/62. Unique Paths.py" />
-        <option value="$PROJECT_DIR$/LeetCode_python_solution/121. Best Time to Buy and Sell Stock.py" />
-        <option value="$PROJECT_DIR$/LeetCode_python_solution/102. Binary Tree Level Order Traversal.py" />
-        <option value="$PROJECT_DIR$/LeetCode_python_solution/341. Flatten Nested List Iterator.py" />
-        <option value="$PROJECT_DIR$/exam.py" />
         <option value="$PROJECT_DIR$/621exam/1.py" />
         <option value="$PROJECT_DIR$/621exam/2.py" />
         <option value="$PROJECT_DIR$/621exam/4.py" />
@@ -163,6 +156,12 @@
         <option value="$PROJECT_DIR$/LeetCode_python_solution/116. Populating Next Right Pointers in Each Node.py" />
         <option value="$PROJECT_DIR$/LeetCode_python_solution/117. Populating Next Right Pointers in Each Node II.py" />
         <option value="$PROJECT_DIR$/LeetCode_python_solution/73. Set Matrix Zeroes.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/131. Palindrome Partitioning.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/395. Longest Substring with At Least K Repeating Characters.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/105. Construct Binary Tree from Preorder and Inorder Traversal.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/106. Construct Binary Tree from Inorder and Postorder Traversal.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/141. Linked List Cycle.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/20. Valid Parentheses.py" />
       </list>
     </option>
   </component>
@@ -175,9 +174,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-59" />
-    <option name="y" value="-24" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="41" />
+    <option name="y" value="20" />
     <option name="width" value="1670" />
     <option name="height" value="1000" />
   </component>
@@ -200,6 +199,11 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode_python_solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -503,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530020725091</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="6.27 6.28">
+      <created>1530235798235</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1530235798235</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -516,7 +527,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="563" y="165" width="1670" height="1000" extended-state="0" />
+    <frame x="221" y="44" width="1670" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
@@ -526,7 +537,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.20325203" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.29880044" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23167703" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -561,7 +572,8 @@
     <MESSAGE value="6.22" />
     <MESSAGE value="6.24" />
     <MESSAGE value="6.26 6.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.26 6.25" />
+    <MESSAGE value="6.27 6.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.27 6.28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -585,44 +597,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/121. Best Time to Buy and Sell Stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/62. Unique Paths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/350. Intersection of Two Arrays II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/102. Binary Tree Level Order Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exam.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/341. Flatten Nested List Iterator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/202. Happy Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -784,13 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/重建二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/两个栈实现队列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -910,31 +877,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/26. Remove Duplicates from Sorted Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
+        <state relative-caret-position="1166">
           <caret line="53" column="66" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/116. Populating Next Right Pointers in Each Node.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="72" column="43" lean-forward="true" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+        <state relative-caret-position="1584">
+          <caret line="72" column="43" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/117. Populating Next Right Pointers in Each Node II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        <state relative-caret-position="1188">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/73. Set Matrix Zeroes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
+        <state relative-caret-position="1254">
           <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/131. Palindrome Partitioning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/395. Longest Substring with At Least K Repeating Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/重建二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/105. Construct Binary Tree from Preorder and Inorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/106. Construct Binary Tree from Inorder and Postorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/141. Linked List Cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="77" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/20. Valid Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
