@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d781190d-f22e-475f-ad92-b69d7bbb4b2d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/105. Construct Binary Tree from Preorder and Inorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/106. Construct Binary Tree from Inorder and Postorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/131. Palindrome Partitioning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/141. Linked List Cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/395. Longest Substring with At Least K Repeating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/(to do )207.Course Schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/155. Min Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/19. Remove Nth Node From End of List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/234. Palindrome Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/56. Merge Intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_python_solution/88. Merge Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/旋转数组的最小数字.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_python_solution/Maximum Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_python_solution/53.Maximum Subarray.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +38,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$17__Letter_Combinations_of_a_Phone_Number.coverage" NAME="17. Letter Combinations of a Phone Number Coverage Results" MODIFIED="1530154347305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_python_solution" />
     <SUITE FILE_PATH="coverage/LeetCode$Maximum_Subarray.coverage" NAME="Maximum Subarray Coverage Results" MODIFIED="1529823188100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_python_solution" />
     <SUITE FILE_PATH="coverage/LeetCode$326__Power_of_Three.coverage" NAME="326. Power of Three Coverage Results" MODIFIED="1529819534827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_python_solution" />
-    <SUITE FILE_PATH="coverage/LeetCode$.coverage" NAME="替换空格 Coverage Results" MODIFIED="1529908693926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/LeetCode$.coverage" NAME="旋转数组的最小数字 Coverage Results" MODIFIED="1530275868832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/LeetCode$2.coverage" NAME="2 Coverage Results" MODIFIED="1529581613125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/621exam" />
   </component>
   <component name="FavoritesManager">
@@ -45,42 +48,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="131. Palindrome Partitioning.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/131. Palindrome Partitioning.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="395. Longest Substring with At Least K Repeating Characters.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/395. Longest Substring with At Least K Repeating Characters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="105. Construct Binary Tree from Preorder and Inorder Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/105. Construct Binary Tree from Preorder and Inorder Traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="106. Construct Binary Tree from Inorder and Postorder Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/106. Construct Binary Tree from Inorder and Postorder Traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="141. Linked List Cycle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/141. Linked List Cycle.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,9 +57,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20. Valid Parentheses.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="20. Valid Parentheses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/20. Valid Parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="旋转数组的最小数字.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指offer/旋转数组的最小数字.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="88. Merge Sorted Array.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/88. Merge Sorted Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="56. Merge Intervals.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/56. Merge Intervals.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="155. Min Stack.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/155. Min Stack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-328">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="53.Maximum Subarray.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/53.Maximum Subarray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(to do )207.Course Schedule.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/(to do )207.Course Schedule.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="19. Remove Nth Node From End of List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/19. Remove Nth Node From End of List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="234. Palindrome Linked List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/234. Palindrome Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="694">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -111,15 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/621exam/1.py" />
-        <option value="$PROJECT_DIR$/621exam/2.py" />
-        <option value="$PROJECT_DIR$/621exam/4.py" />
-        <option value="$PROJECT_DIR$/621exam/5.py" />
-        <option value="$PROJECT_DIR$/621exam/3.py" />
-        <option value="$PROJECT_DIR$/LeetCode_python_solution/48. Rotate Image.py" />
-        <option value="$PROJECT_DIR$/LeetCode_python_solution/202. Happy Number.py" />
-        <option value="$PROJECT_DIR$/LeetCode_python_solution/21. Merge Two Sorted Lists.py" />
-        <option value="$PROJECT_DIR$/LeetCode_python_solution/70. Climbing Stairs.py" />
         <option value="$PROJECT_DIR$/LeetCode_python_solution/215. Kth Largest Element in an Array.py" />
         <option value="$PROJECT_DIR$/LeetCode_python_solution/326. Power of Three.py" />
         <option value="$PROJECT_DIR$/LeetCode_python_solution/118. Pascal's Triangle.py" />
@@ -162,6 +192,15 @@
         <option value="$PROJECT_DIR$/LeetCode_python_solution/106. Construct Binary Tree from Inorder and Postorder Traversal.py" />
         <option value="$PROJECT_DIR$/LeetCode_python_solution/141. Linked List Cycle.py" />
         <option value="$PROJECT_DIR$/LeetCode_python_solution/20. Valid Parentheses.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/(todo)207. Course Schedule.py" />
+        <option value="$PROJECT_DIR$/剑指offer/旋转数组的最小数组.py" />
+        <option value="$PROJECT_DIR$/剑指offer/旋转数组的最小数字.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/(to do )207.Course Schedule.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/19. Remove Nth Node From End of List.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/234. Palindrome Linked List.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/88. Merge Sorted Array.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/56. Merge Intervals.py" />
+        <option value="$PROJECT_DIR$/LeetCode_python_solution/155. Min Stack.py" />
       </list>
     </option>
   </component>
@@ -174,11 +213,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="41" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="216" />
+    <option name="y" value="-12" />
     <option name="width" value="1670" />
-    <option name="height" value="1000" />
+    <option name="height" value="1037" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -188,6 +227,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,16 +240,10 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode_python_solution" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17. Letter Combinations of a Phone Number">
+  <component name="RunManager" selected="Python.66. Plus One">
     <configuration name="替换空格" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -313,7 +347,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Maximum Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="旋转数组的最小数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,19 +355,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_python_solution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_python_solution/Maximum Subarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/旋转数组的最小数字.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Maximum Subarray" />
       <item itemvalue="Python.66. Plus One" />
       <item itemvalue="Python.347. Top K Frequent Elements" />
       <item itemvalue="Python.替换空格" />
@@ -345,7 +378,6 @@
         <item itemvalue="Python.替换空格" />
         <item itemvalue="Python.347. Top K Frequent Elements" />
         <item itemvalue="Python.66. Plus One" />
-        <item itemvalue="Python.Maximum Subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -514,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530235798235</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="6.27 6.28">
+      <created>1530250006379</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1530250006379</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView">
@@ -527,23 +566,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="221" y="44" width="1670" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.32824427" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.15921482" />
-      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.20325203" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.29880044" />
+      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.20283534" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.29225737" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23167703" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29384437" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2817372" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -573,7 +612,8 @@
     <MESSAGE value="6.24" />
     <MESSAGE value="6.26 6.25" />
     <MESSAGE value="6.27 6.28" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.27 6.28" />
+    <MESSAGE value="6.29" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.29" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -584,7 +624,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="102" />
+      <option name="time" value="104" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -597,62 +637,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/202. Happy Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/48. Rotate Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="56" column="31" lean-forward="true" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/21. Merge Two Sorted Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/70. Climbing Stairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/215. Kth Largest Element in an Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-454">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/621exam/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/621exam/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/621exam/3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/621exam/4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -685,13 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/Maximum Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1047">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
@@ -905,14 +882,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/131. Palindrome Partitioning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
+        <state relative-caret-position="836">
           <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/395. Longest Substring with At Least K Repeating Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="528">
           <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
@@ -926,7 +903,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/105. Construct Binary Tree from Preorder and Inorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
+        <state relative-caret-position="572">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
@@ -945,8 +922,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/(todo)207. Course Schedule.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/20. Valid Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/旋转数组的最小数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/(to do )207.Course Schedule.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/19. Remove Nth Node From End of List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/234. Palindrome Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/88. Merge Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/56. Merge Intervals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/155. Min Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_python_solution/53.Maximum Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
