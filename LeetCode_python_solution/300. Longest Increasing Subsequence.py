@@ -36,7 +36,7 @@ class Solution:
                     dp[i]=max(dp[i],dp[j]+1)
         return max(dp) if dp else 0
 
-class Solution(object):
+class Solution2(object):
     def lengthOfLIS(self, nums):
         """
         :type nums: List[int]
