@@ -36,6 +36,10 @@ class Solution:
                     dp[i]=max(dp[i],dp[j]+1)
         return max(dp) if dp else 0
 
+a=Solution()
+a.lengthOfLIS([1,3,5,4,7])
+
+
 class Solution2(object):
     def lengthOfLIS(self, nums):
         """

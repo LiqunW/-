@@ -20,6 +20,7 @@ You may assume that the given expression is always valid.
 Do not use the eval built-in library function.
 题意：带括号的+-计算器
 思路：遇到(就把之前的结果和符号入栈，遇到)就把当前结果中的符号加上栈中的结果
+每次计算的时候，括号内的值已经计算好了，因此stack的运算相当于存储了括号间的运算
 '''
 
 
@@ -57,3 +58,6 @@ class Solution:
                 sign = 1
             idx += 1
         return res
+
+a=Solution()
+a.calculate('(1+3)-(-2-4)+6-1')

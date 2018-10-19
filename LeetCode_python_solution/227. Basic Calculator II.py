@@ -43,7 +43,7 @@ class Solution:
                     stack.append(num)
                 elif pre_op =='-':
                     stack.append(-num)
-                elif pre_op=='*':
+                elif pre_op=='*':  # 乘法和除法的优先级最高，所以先计算
                     stack.append(stack.pop()*num)
                 elif pre_op=='/':
                     top=stack.pop()
